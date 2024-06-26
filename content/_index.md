@@ -35,7 +35,24 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. XXXX
+        Dr David Fengwei Xie possesses a wealth of research experience at the crossroads of engineering, chemistry, and physics, with a particular focus on biopolymers (polysaccharides and proteins) for ‘green’ materials and food applications. He has honed his expertise extensively in various biopolymers, including starch, chitosan, cellulose, alginate, and gelatin. His research endeavours have been dedicated to exploring the following aspects of biopolymers:
+        - Multilevel structures
+        - Molecular interactions (e.g. hydrogen bonding, ionic interaction)
+        - Dissolution, plasticisation and gelation
+        - Chemical and physical modifications
+        - Polymer processing and materials engineering (e.g. reactive processes, sustainable engineering)
+        - Structural evolution during processing, modification, ageing and usage
+        - Blends and (nano)composites
+        - Processing-structure-property relationships
+        
+        Current research
+        - Polymer (nano)composites
+        - Green processes for biopolymers
+        - (Bio)polymer films and coatings
+        - (Bio)polymer hydrogels
+        - 3D printing of (bio)polymer materials
+        - Stimuli-responsive and functional (bio)polymer materials
+        - (Bio)polymer materials for biomedical, electronics, sensing, energy and environmental applications
         
         Please reach out to collaborate 😃
     design:
