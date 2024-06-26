@@ -3,7 +3,7 @@
 title: David Fengwei Xie
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: David Fengwei
@@ -58,24 +58,24 @@ education:
     institution: The University of Queensland
     date_start: 2013-02-01
     date_end: 2014-11-30
-    summary: |
-      XXXXX
-      
-      XXXXX
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+#    summary: |
+#      XXXXX
+#      
+#      XXXXX
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
   - area: BEng Biological Engineering
     institution: South China University of Technology
     date_start: 2000-09-01
     date_end: 2004-06-30
-    summary: |
-      XXXXXX
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    summary: |
+#      XXXXXX
+#      
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Professor
     company_name: University of Bath
@@ -83,22 +83,22 @@ work:
     company_logo: ''
     date_start: 2023-12-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    summary: |2-
+#      Responsibilities include:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Lecturer / Senior Lecturer
     company_name: Newcastle University
     company_url: ''
     company_logo: ''
     date_start: 2021-12-01
     date_end: 2023-11-30
-    summary: |
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    summary: |
+#      Responsibilities include:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
