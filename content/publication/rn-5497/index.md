@@ -1,0 +1,43 @@
+---
+title: Chitosan-based electroconductive inks without chemical reaction for cost-effective
+  and versatile 3D printing for electromagnetic interference (EMI) shielding and strain-sensing
+  applications
+authors:
+- Naresh D. Sanandiya
+- Avinash R. Pai
+- Shayan Seyedin
+- Fengzai Tang
+- Sabu Thomas
+- Fengwei Xie
+date: '2024-01-01'
+publishDate: '2024-06-26T10:21:42.542149Z'
+publication_types:
+- article-journal
+publication: '*Carbohydrate Polymers*'
+doi: https://doi.org/10.1016/j.carbpol.2024.122161
+abstract: The burgeoning interest in biopolymer 3D printing arises from its capacity
+  to meticulously engineer tailored, intricate structures, driven by the intrinsic
+  benefits of biopolymers—renewability, chemical functionality, and biosafety. Nevertheless,
+  the accessibility of economical and versatile 3D-printable biopolymer-based inks
+  remains highly constrained. This study introduces an electroconductive ink for direct-ink-writing
+  (DIW) 3D printing, distinguished by its straightforward preparation and commendable
+  printability and material properties. The ink relies on chitosan as a binder, carbon
+  fibers (CF) a low-cost electroactive filler, and silk fibroin (SF) a structural
+  stabilizer. Freeform 3D printing manifests designated patterns of electroconductive
+  strips embedded in an elastomer, actualizing effective strain sensors. The ink's
+  high printability is demonstrated by printing complex geometries with porous, hollow,
+  and overhanging structures without chemical or photoinitiated reactions or support
+  baths. The composite is lightweight (density 0.29 ± 0.01 g/cm3), electroconductive
+  (2.64 ± 0.06 S/cm), and inexpensive (20 USD/kg), with tensile strength of 20.77 ± 0.60 MPa
+  and Young's modulus of 3.92 ± 0.06 GPa. 3D-printed structures exhibited outstanding
+  electromagnetic interference (EMI) shielding effectiveness of 30–31 dB, with shielding
+  of >99.9 % incident electromagnetic waves, showcasing significant electronic application
+  potential. Thus, this study presents a novel, easily prepared, and highly effective
+  biopolymer-based ink poised to advance the landscape of 3D printing technologies.
+tags:
+- Chitosan silk protein blend Biopolymer DIW ink EMI shielding material Biopolymer
+  composite materials Biopolymer 3D printing Biopolymer ink rheological properties
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0144861724003874
+---
