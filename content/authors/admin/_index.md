@@ -47,6 +47,12 @@ profiles:
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Fengwei_Xie/
+  - icon: academicons/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=12805693800/
+  - icon: academicons/clarivate
+    url: https://www.webofscience.com/wos/author/rid/B-4747-2009/
 
 interests:
   - Biopolymers
