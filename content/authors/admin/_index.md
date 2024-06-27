@@ -56,7 +56,6 @@ profiles:
 
 Research interests:
   - Natural biopolymers
-  - Polymer Engineering
   - Functional Food
   - Functional materials
 
