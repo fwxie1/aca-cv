@@ -57,6 +57,8 @@ profiles:
 Interests:
   - Natural biopolymers
   - Polymer Engineering
+  - 3D printing
+  - Polymer Composites
   - Functional Food
   - Functional materials
   - Food packaging
