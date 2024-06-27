@@ -55,7 +55,7 @@ profiles:
     url: https://www.webofscience.com/wos/author/rid/B-4747-2009/
 
 Research interests:
-  - Natural biopolymers, including polysaccharides (e.g. cellulose, chitin/chitosan, starch, alginate, pectin, carrageenan, xanthan gum) and proteins (e.g. collagen, gelatin, silk fibroin)
+  - Natural biopolymers
   - Polymer processing
   - Functional Food 
   - Functional materials
