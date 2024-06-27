@@ -54,10 +54,13 @@ profiles:
   - icon: academicons/clarivate
     url: https://www.webofscience.com/wos/author/rid/B-4747-2009/
 
-Research interests:
+Interests:
   - Natural biopolymers
+  - Polymer Engineering
   - Functional Food
   - Functional materials
+  - Food packaging
+  - Biomass utilisation
 
 education:
   - area: Grad. Cert. in Higher Education
