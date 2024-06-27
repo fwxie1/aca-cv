@@ -39,8 +39,8 @@ profiles:
 ##    url: https://www.instagram.com/fwxie/
 ##  - icon: brands/github
 ##    url: https://github.com/fwxie1
-##  - icon: brands/linkedin
-##    url: https://www.linkedin.com/in/fwxie/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/fwxie/
   - icon: brands/facebook
     url: https://www.facebook.com/FengweiXie/
   - icon: academicons/google-scholar
