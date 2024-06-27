@@ -56,11 +56,9 @@ profiles:
 
 Research interests:
   - Natural biopolymers
-  - Polymer processing
-  - Functional Food 
+  - Polymer Engineering
+  - Functional Food
   - Functional materials
-  - Food packaging
-  - Biomass utilisation
 
 education:
   - area: Grad. Cert. in Higher Education
