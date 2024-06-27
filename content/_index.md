@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+##      button:
+##        text: Download CV
+##        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -45,7 +45,7 @@ sections:
         - Blends and (nano)composites
         - Processing-structure-property relationships
         
-        ### Current research
+        #### Current research
         - Polymer (nano)composites
         - Green processes for biopolymers
         - (Bio)polymer films and coatings
