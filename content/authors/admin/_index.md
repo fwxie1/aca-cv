@@ -64,11 +64,21 @@ Research interests:
 
 education:
   - area: Grad. Cert. in Higher Education
-    institution: The University of Queensland
+    institution: The University of Queensland, Australia
     date_start: 2013-02-01
     date_end: 2014-11-30
+    summary: |
+      Courses included:
+      - Designing Learning for Contemporary Higher Education
+      - Designing Teaching and Assessment in Higher Education
+      - Designing Education Interventions
+      - Education Intervention in Higher Education
+  - area: PhD in Polysaccharide Engineering
+    institution: South China University of Technology, China
+    date_start: 2004-09-01
+    date_end: 2009-06-20
 ##    summary: |
-##      XXXXX
+##      XXXXXX
 ##      
 ##      Courses included:
 ##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -77,8 +87,8 @@ education:
 ##    button:
 ##      text: 'Read Thesis'
 ##      url: 'https://example.com'
-  - area: BEng Biological Engineering
-    institution: South China University of Technology
+  - area: BEng in Biological Engineering
+    institution: South China University of Technology, China
     date_start: 2000-09-01
     date_end: 2004-06-30
 ##    summary: |
@@ -90,7 +100,7 @@ education:
 ##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Professor
-    company_name: University of Bath
+    company_name: University of Bath, UK
     company_url: ''
     company_logo: ''
     date_start: 2023-12-01
@@ -100,12 +110,45 @@ work:
 ##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Lecturer / Senior Lecturer
-    company_name: Newcastle University
+  - position: EPSRC Fellow / Lecturer / Senior Lecturer (equiv. Associate Professor)
+    company_name: Newcastle University, UK
     company_url: ''
     company_logo: ''
     date_start: 2021-12-01
     date_end: 2023-11-30
+##    summary: |
+##      Responsibilities include:
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Marie Skłodowska-Curie WIRL-COFUND Fellow, Marie Skłodowska-Curie Individual Fellow, EPSRC Fellow
+    company_name: University of Warwick, UK
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-10-02
+    date_end: 2021-11-30
+##    summary: |
+##      Responsibilities include:
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: UQ Postdoctoral Research Fellow, Postdoctoral Research Fellow, Research Fellow
+    company_name: The University of Queensland, Australia
+    company_url: ''
+    company_logo: ''
+    date_start: 2009-02-25
+    date_end: 2017-08-31
+##    summary: |
+##      Responsibilities include:
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Post Doctoral Fellow
+    company_name: University of Guelph, Canada
+    company_url: ''
+    company_logo: ''
+    date_start: 2008-08-24
+    date_end: 2008-11-28
 ##    summary: |
 ##      Responsibilities include:
 ##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
