@@ -1,5 +1,5 @@
 ---
-title: Presentations
+title: Talks
 cms_exclude: true
 #url: talk
 
