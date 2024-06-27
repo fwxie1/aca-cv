@@ -45,7 +45,7 @@ sections:
         - Blends and (nano)composites
         - Processing-structure-property relationships
         
-        ###Current research
+        ### Current research
         - Polymer (nano)composites
         - Green processes for biopolymers
         - (Bio)polymer films and coatings
