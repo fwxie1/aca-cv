@@ -6,7 +6,7 @@
 # Website name
 title: David Fengwei Xie
 # Website URL
-baseURL: 'https://example.com/'
+## baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
