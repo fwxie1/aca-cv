@@ -68,8 +68,9 @@ sections:
 ##    design:
 ##      view: article-grid
 ##      columns: 2
-##  - block: collection
-##    content:
+  - block: collection
+    id: papers-2
+    content:
       title: Recent Publications
      text: ""
       filters:
